@@ -1,4 +1,4 @@
-def greet():
-    print ("Be esté xoninho")
 
-greet()
+def greet(name):
+                 print ("Hello,", name ,"how are you doing today?")
+       
