@@ -5,4 +5,4 @@ def century(year):
     else:
         return centuries + 1
 
-/// double slash gives a integral result of your division, the % 100 guarantees the division left no decimals.///
+# double slash gives a integral result of your division, the % 100 guarantees the division left no decimals.
