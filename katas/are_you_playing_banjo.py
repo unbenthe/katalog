@@ -5,3 +5,4 @@ def are_you_playing_banjo(name):
         return name + " does not play banjo"
 
 # se a primeira letra do nome, forçado a ser minusculo, for 'r', o retorno será "name plays banjo", se não, será "name does not play banjo"
+# lembrar da função .startswith('')
